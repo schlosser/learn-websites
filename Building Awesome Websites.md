@@ -5,7 +5,7 @@
 
 Written and developed by [Dan Schlosser](http://schlosser.io) and [ADI][adi].
 
-#### [Download Sample Code Here](http://learn.adicu.com/jquery/code.zip)
+#### [Download Sample Code Here](http://learn.adicu.com/websites/code.zip)
 
 ## Table of Contents
 
