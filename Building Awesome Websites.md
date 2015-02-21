@@ -3,7 +3,7 @@
 
 *Building modern, scrolling websites with .*
 
-Written and developed by [Dan Schlosser](http://schlosser.io) and [ADI][adi].
+Written and developed by [Dan Schlosser](http://schlosser.io) and [ADI](https://adicu.com).
 
 #### [Download Sample Code Here](http://learn.adicu.com/websites/code.zip)
 
