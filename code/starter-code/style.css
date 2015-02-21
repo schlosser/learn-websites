@@ -1,0 +1,23 @@
+.hero-image {
+	top: -20rem;
+	bottom: -20rem;
+	width: 100%;
+	background-image: url(lake.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	position: absolute;
+	z-index: 1;
+}
+
+.hero h1 {
+	position: relative;
+	text-align: center;
+	color: white;
+	padding-top: 20rem;
+	z-index: 2;
+}
+
+.navbar-wrapper {
+	height: 3rem;
+}
