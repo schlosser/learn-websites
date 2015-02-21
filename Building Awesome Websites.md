@@ -1,7 +1,7 @@
 <a id="top"></a>
 # Building Awesome Websites
 
-*Building modern, scrolling websites with .*
+*Building modern websites HTML, CSS, JavaScript, and jQuery.*
 
 Written and developed by [Dan Schlosser](http://schlosser.io) and [ADI](https://adicu.com).
 
